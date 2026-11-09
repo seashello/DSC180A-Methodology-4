@@ -1,4 +1,6 @@
-Michelle Hong (*m5hong@ucsd.edu*)
+---
+title: Michelle Hong (*m5hong@ucsd.edu*)
+---
 
 _Domain D20 with Alex Warstadt_
 
